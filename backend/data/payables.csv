@@ -1,0 +1,9 @@
+amount,due_date,status,vendor,bill_id,category,flexible
+35000,2026-10-31,unpaid,Wholesale Supplier Co.,BILL-551,Other,False
+12000,2026-11-03,unpaid,Shop Rent,RENT-11,Other,False
+8000,2026-11-05,unpaid,Packaging Vendor,BILL-552,Other,True
+6000,2026-11-13,unpaid,Equipment Service,BILL-553,Other,True
+10000,2026-11-18,unpaid,Loan EMI,EMI-10,Other,False
+40000,2026-11-01,unpaid,customer,WEB-1792951601370,Other,False
+5556,2026-11-01,unpaid,customer,WEB-1792954204797,Other,False
+5435,2026-11-04,unpaid,customer,WEB-1792954242328,Other,False

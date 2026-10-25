@@ -1,0 +1,7 @@
+amount,due_date,status,customer,invoice_id,avg_delay_days
+40000,2026-11-07,outstanding,Shree Retailers,INV-1041,5
+25000,2026-10-29,outstanding,Metro Stores,INV-1042,2
+18000,2026-10-22,outstanding,Ananya Mart,INV-1043,4
+12000,2026-11-15,outstanding,Kaveri Traders,INV-1044,0
+5556,2026-11-01,outstanding,customer,WEB-1792954211711,9
+20000,2026-11-01,outstanding,CUSTOMER,WEB-1792956762467,0
